@@ -28,6 +28,10 @@
 
 `tar -caf {{target.tar.xz}} {{file1 file2 file3}}`
 
+- Create a compressed archive from a whole directory:
+
+`tar -zcvf {{target.tar.xz}} {{directory}}`
+
 - List the contents of a tar file:
 
 `tar -tvf {{source.tar}}`
