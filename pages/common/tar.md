@@ -30,7 +30,7 @@
 
 - Create a compressed archive from a whole directory:
 
-`tar -zcvf {{target.tar.xz}} {{directory}}`
+`tar -zcvf {{target.tar.gz}} {{directory}}`
 
 - List the contents of a tar file:
 
